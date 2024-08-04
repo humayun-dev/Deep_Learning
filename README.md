@@ -16,5 +16,4 @@
             <li>Backpropagation classification problem using Keras </li>
             </ol>
     </li>
-    <li>
 </ol>
