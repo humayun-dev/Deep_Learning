@@ -16,4 +16,7 @@
             <li>Backpropagation classification problem using Keras </li>
             </ol>
     </li>
+    <li>
+        Vanishing Gradient Problem in ANN
+    </li>
 </ol>
